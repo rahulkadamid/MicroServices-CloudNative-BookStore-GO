@@ -1,4 +1,4 @@
-# CloudNative-Book-Stock-Micro-Service-Rest-API
+# MicroServices-CloudNative-BookStore-GO
 
 Micro Service based Http Book Stock Rest API built using Cloud Native Stack ( GO LANG | DOCKER | KUBERNETES)
 
